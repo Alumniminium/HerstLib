@@ -1,0 +1,12 @@
+/home/trbl/coding/fortress/HerstLib/bin/Debug/net7.0/HerstLib.deps.json
+/home/trbl/coding/fortress/HerstLib/bin/Debug/net7.0/HerstLib.dll
+/home/trbl/coding/fortress/HerstLib/bin/Debug/net7.0/HerstLib.pdb
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.csproj.AssemblyReference.cache
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.AssemblyInfoInputs.cache
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.AssemblyInfo.cs
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.csproj.CoreCompileInputs.cache
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.dll
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/refint/HerstLib.dll
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/HerstLib.pdb
+/home/trbl/coding/fortress/HerstLib/obj/Debug/net7.0/ref/HerstLib.dll
